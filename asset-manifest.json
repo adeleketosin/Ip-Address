@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adeleketosin.github.io/Ip-Address/static/css/main.ce31cbc1.css",
-    "main.js": "/adeleketosin.github.io/Ip-Address/static/js/main.474c0cbf.js",
+    "main.css": "/adeleketosin.github.io/Ip-Address/static/css/main.e3110542.css",
+    "main.js": "/adeleketosin.github.io/Ip-Address/static/js/main.25522397.js",
     "static/media/pattern-bg-desktop.png": "/adeleketosin.github.io/Ip-Address/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
     "index.html": "/adeleketosin.github.io/Ip-Address/index.html",
     "static/media/icon-arrow.svg": "/adeleketosin.github.io/Ip-Address/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
-    "main.ce31cbc1.css.map": "/adeleketosin.github.io/Ip-Address/static/css/main.ce31cbc1.css.map",
-    "main.474c0cbf.js.map": "/adeleketosin.github.io/Ip-Address/static/js/main.474c0cbf.js.map"
+    "main.e3110542.css.map": "/adeleketosin.github.io/Ip-Address/static/css/main.e3110542.css.map",
+    "main.25522397.js.map": "/adeleketosin.github.io/Ip-Address/static/js/main.25522397.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce31cbc1.css",
-    "static/js/main.474c0cbf.js"
+    "static/css/main.e3110542.css",
+    "static/js/main.25522397.js"
   ]
 }
